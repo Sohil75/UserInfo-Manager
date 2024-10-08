@@ -1,18 +1,6 @@
 # UserInfo-Manager
 User Management App
-UserInfo Manager is a desktop application designed to manage user data with CRUD (Create, Read, Update, Delete) functionality. It allows users to efficiently store, update, and delete personal information, such as phone numbers, addresses, and email IDs.
+UserInfo Manager is a desktop application designed to manage user data with CRUD (Create, Read, Update, Delete) functionality. 
 
-Features
-Add, update, and delete user information
-User-friendly interface for data management
-SQLite database for secure data storage
-Real-time data validation to ensure accuracy
-Technologies Used
-Java for backend logic
-Java Swing for the graphical user interface (GUI)
-SQLite for database management
-How to Run
-Clone this repository.
-Open the project in your favorite IDE (e.g., IntelliJ IDEA).
-Make sure to have SQLite installed or use the SQLite browser for database management.
-Run the project, and the UserInfo Manager application will launch.
+![Screenshot (185)](https://github.com/user-attachments/assets/7e0c323e-6d30-4a43-8354-caa978fa12ce)
+![Screenshot (186)](https://github.com/user-attachments/assets/77e8b3fb-7d07-4334-81d4-60cd527172ef)
